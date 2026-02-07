@@ -1,0 +1,23 @@
+{
+    "HomePage": {
+        "title": "Gutenberg Project",
+        "subtitle": "A social cataloging website that allows you to freely search its database of books, annotations, and reviews."
+    },
+    "Category": {
+        "Fiction": "Fiction",
+        "Drama": "Drama",
+        "Humor": "Humor",
+        "Politics": "Politics",
+        "Philosophy": "Philosophy",
+        "History": "History",
+        "Adventure": "Adventure"
+    },
+    "Search": {
+        "placeholder": "Search by title or author"
+    },
+    "Common": {
+        "loading": "Loading...",
+        "no_books": "No books found",
+        "back": "Back"
+    }
+}

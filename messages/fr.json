@@ -1,0 +1,23 @@
+{
+    "HomePage": {
+        "title": "Projet Gutenberg",
+        "subtitle": "Un site de catalogage social qui vous permet de rechercher librement dans sa base de données de livres, d'annotations et de critiques."
+    },
+    "Category": {
+        "Fiction": "Romans",
+        "Drama": "Théâtre",
+        "Humor": "Humour",
+        "Politics": "Politique",
+        "Philosophy": "Philosophie",
+        "History": "Histoire",
+        "Adventure": "Aventure"
+    },
+    "Search": {
+        "placeholder": "Rechercher par titre ou auteur"
+    },
+    "Common": {
+        "loading": "Chargement...",
+        "no_books": "Aucun livre trouvé",
+        "back": "Retour"
+    }
+}
