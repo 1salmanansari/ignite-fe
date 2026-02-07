@@ -2,17 +2,40 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+## Getting Started
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1.  **Install Dependencies**:
+
+    ```bash
+    npm install
+    # or
+    yarn install
+    # or
+    pnpm install
+    # or
+    bun install
+    ```
+
+2.  **Environment Setup**:
+
+    Create a `.env` file in the root directory (you can copy from `.env.example` if available) and add the following:
+
+    ```bash
+    NEXT_PUBLIC_API_URL=http://localhost:4000
+    ```
+    *   `NEXT_PUBLIC_API_URL`: The URL of your backend API (e.g., `ignite-be`).
+
+3.  **Run the Development Server**:
+
+    ```bash
+    npm run dev
+    # or
+    yarn dev
+    # or
+    pnpm dev
+    # or
+    bun dev
+    ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
